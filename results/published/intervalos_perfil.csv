@@ -1,0 +1,8 @@
+escenario,parametro,estimacion,inferior,superior,estado_inferior,estado_superior,componentes_en_rejilla,cota_inferior,cota_superior
+1,D,709.852623671828,365.0696656929116,1207.676460762195,cruce localizado,cruce localizado,1,1.0,2000.0
+1,kr,0.028881862090349365,0.018055764739272517,0.039907307540003635,cruce localizado,cruce localizado,1,0.0001,0.2
+1,kg,0.07162436203910248,0.054860657159847705,0.09117125088565294,cruce localizado,cruce localizado,1,0.0001,0.2
+2,Dr,601.8408248200393,,,sin cruce hasta la cota de búsqueda,sin cruce hasta la cota de búsqueda,1,1.0,2000.0
+2,Dg,919.1594375948198,,,sin cruce hasta la cota de búsqueda,sin cruce hasta la cota de búsqueda,1,1.0,2000.0
+2,kr,0.029142185175363756,0.017627823774819543,0.04079218833129211,cruce localizado,cruce localizado,1,0.0001,0.2
+2,kg,0.0713361865800387,0.05455965485941312,0.09241859862709789,cruce localizado,cruce localizado,1,0.0001,0.2

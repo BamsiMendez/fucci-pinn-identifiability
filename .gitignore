@@ -1,0 +1,24 @@
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+# Nuevas ejecuciones: las tablas publicadas sí se versionan
+results/generated/
+results/runs/
+results/*.csv
+*.pt
+*.pth
+# Auxiliares LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz

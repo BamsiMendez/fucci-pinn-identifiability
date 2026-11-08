@@ -1,0 +1,18 @@
+{
+  "s1_mean": {
+    "D": 700.0941112871436,
+    "kr": 0.0288015368933713,
+    "kg": 0.07143553104249856
+  },
+  "s1_std": {
+    "D": 3.037753514644101,
+    "kr": 3.6028001190284756e-05,
+    "kg": 8.228640554172541e-05
+  },
+  "s1_restarts": 2,
+  "s2_outside_bounds": 4,
+  "s2_total": 10,
+  "s1_rmse_fd": 0.011761501071064856,
+  "data_sources": "KIT_NUEVO_CHAT_POSTER_PINNS; resultados_01_verificacion y resultados_02_identificabilidad",
+  "input_zip_sha256": "419d0f4bf8eef566119272aa899c32530038beca1a7db23f43d1fa7338fc17bd"
+}

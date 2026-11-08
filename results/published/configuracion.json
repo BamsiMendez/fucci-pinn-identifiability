@@ -1,0 +1,17 @@
+{
+  "sha256": {
+    "datos_reorganizados.xlsx": "ef264788bad69adbb38d07a885da998cc95cc87305591849b52a78a286ad8c21",
+    "real_s1.csv": "ddad5fa77b5a1205c54e47d76280f12169435dd322fd0b30d8fa4d0bb9d94b79",
+    "real_s2.csv": "d864f14ba94695dd977f82b2808907b6e967df4a169fdeb9dae26cb8c9f19ecc"
+  },
+  "sigma": 0.05,
+  "nx": 139,
+  "inicial": "coseno K=8",
+  "dominio": [
+    0,
+    1242
+  ],
+  "python": "3.13.18",
+  "numpy": "2.4.6",
+  "scipy": "1.16.3"
+}

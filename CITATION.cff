@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si utiliza este proyecto, cite el póster y las fuentes científicas originales indicadas en README.md."
+type: software
+title: "Identificabilidad e incertidumbre en la inferencia de parámetros de invasión celular mediante PINNs"
+authors:
+  - family-names: "Mendez Posada"
+    given-names: "Bamsi"
+  - family-names: "Villada Arias"
+    given-names: "Sergio Alejandro"
+date-released: 2026-11-08
+version: "1.0.0"
+abstract: "Repositorio del proyecto presentado en el Segundo Workshop de Estadística de 2026: inferencia clásica, redes informadas por la física y perfiles de verosimilitud para datos FUCCI."
+keywords:
+  - PINNs
+  - identifiability
+  - profile likelihood
+  - reaction diffusion
+  - FUCCI
